@@ -1,0 +1,11 @@
+.table {
+    background-color: blue;
+}
+
+.cells {
+    border: solid black;
+    width: 100px;
+    height: 100px;
+    max-width: 500px;
+    max-height: 500px;
+}
